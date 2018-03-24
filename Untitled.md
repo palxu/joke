@@ -7,10 +7,10 @@
 - 资源：资源可以被一个或多个对象使用。有些资源作为模板，可实例化成游戏中具体的对象。资源文件夹通常有对象、材质、场景、声音、预设、贴图、脚本、动作，在这些文件夹下可以继续划分。 
 ---    
     2.下载几个游戏案例，分别总结资源、对象组织的结构（指资源的目录组织结构与游戏对象树的层次结构）  
-![u=3375423087,1211204506&fm=27&gp=0]($res/u=3375423087,1211204506&fm=27&gp=0.jpg)
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521909616851&di=c4ba85a27a265ec742f8f7f5b87c7f64&imgtype=0&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F7c1ed21b0ef41bd5f591ab2c56da81cb38db3d23.jpg)
 
     答：我下载的是《双刃战士》这款小游戏,其中资源目录组织结构如下：
-![BEFQBT2ZT0Z[D8S9]HYP45U]($res/BEFQBT2ZT0Z%5BD8S9%5DHYP45U.png)
+![](http://m.qpic.cn/psb?/V139yGGO0Oh9Ae/IxSdom6U4Js8.p.iFfqdqxoFqwehPT3FY.Hjg3UxCtc!/b/dAgBAAAAAAAA&bo=XgEJAQAAAAADB3U!&rf=viewer_4&t=5)
 
 ---
    
@@ -69,7 +69,7 @@ public class Demo : MonoBehaviour {
 ---
 * 用 UML 图描述 三者的关系（请使用 UMLet 14.1.1 stand-alone版本出图）
 
-![]($res/QQ%E5%9B%BE%E7%89%8720180324194143.png)
+![](http://m.qpic.cn/psb?/V139yGGO0Oh9Ae/gJqIfdfU5jVAJVbnyTiQDRPqFe3hAtJRWfEKNLfI7Zw!/b/dFYBAAAAAAAA&bo=gQKAAgAAAAADByM!&rf=viewer_4&t=5)
 
 ---
 整理相关学习资料，编写简单代码验证以下技术的实现：
@@ -255,11 +255,11 @@ public class 井字棋1 : MonoBehaviour {
 
 
 
-![]($res/QQ%E5%9B%BE%E7%89%8720180324205610.png)
+![](http://m.qpic.cn/psb?/V139yGGO0Oh9Ae/36pv.K5U1JpTJe3QpOiI9OXO3ZgA8OX5*OnTd24lDkw!/b/dAgBAAAAAAAA&bo=eAQUAgAAAAADN3g!&rf=viewer_4&t=5)
 
-![]($res/QQ%E5%9B%BE%E7%89%8720180324205832.png)
+![](http://m.qpic.cn/psb?/V139yGGO0Oh9Ae/xo5gLRR5RdCIUSAU1HC8mAIuKCUHQXFAxIZ8ainyav8!/b/dAgBAAAAAAAA&bo=dgQWAgAAAAADN3Q!&rf=viewer_4&t=5)
 
-![]($res/QQ%E5%9B%BE%E7%89%8720180324205951.png)
+![](http://m.qpic.cn/psb?/V139yGGO0Oh9Ae/JzH09EoBETdJJyfSquR7DKFGF94CnsMTMgGfuN2Bz5k!/b/dEIBAAAAAAAA&bo=dgQRAgAAAAADN3M!&rf=viewer_4&t=5)
 
 
 
